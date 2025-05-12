@@ -1,6 +1,4 @@
-# Project Four
-
-## Introduction
+# Introduction
 
 For my final project in bootcamp, I am tasked to:
 
@@ -24,3 +22,16 @@ Once Java was running, I started to do the lessons in w3schools to help familiar
 
 https://www.w3schools.com/java/default.asp
 
+# Project Plan/Build
+
+My aim at the completion with the project is to:
+
+| :**Feature Aim**: | :**Description**: | :**Feature code requirements**: |
+| --- | --- | --- |
+| :Program coded in Java | Build back-end utilizing Java and Spring as the primary code base | Java, Spring |
+| :Front-end/Back-end | :Implement a functional, viewable app using Java/Spring that is accessible | Java, Spring, React/Angular? |
+| :Connect to database with CRUD function | :Implement a database with CRUD functionality to this Java/Spring based program | MongoDB or SQL |
+| :User Authentication  | :Implement a secure user authentication program into application | JWT (if using Django/SQL) or OATH2? |
+| :Professional look | :I want to implement a CSS framework (tailwind/bootstrap/other) and use figma models to make the site look professional | Tailwind/Bootstrap, Figma model |
+
+As I work through the initial steps and features as I learn Java, Spring, and how they interact, the features list will develop as I go.
