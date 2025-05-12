@@ -26,6 +26,7 @@ https://www.w3schools.com/java/default.asp
 
 My aim at the completion with the project is to:
 
+| :---: | :---: | :---: |
 | **Feature Aim** | **Description** | **Feature code requirements** |
 | :--- | :--- | :---: |
 | Program coded in Java | Build back-end utilizing Java and Spring as the primary code base | Java, Spring |
