@@ -26,9 +26,8 @@ https://www.w3schools.com/java/default.asp
 
 My aim at the completion with the project is to:
 
-| :---: | :---: | :---: |
 | **Feature Aim** | **Description** | **Feature code requirements** |
-| :--- | :--- | :---: |
+| :--- | :--- | :--- |
 | Program coded in Java | Build back-end utilizing Java and Spring as the primary code base | Java, Spring |
 | Front-end/Back-end | Implement a functional, viewable app using Java/Spring that is accessible | Java, Spring, React/Angular? |
 | Connect to database with CRUD function | Implement a database with CRUD functionality to this Java/Spring based program | MongoDB or SQL |
