@@ -67,5 +67,13 @@ While these projects are not very flashy overall, the work done really helped me
 * Java specificity - being a strongly typed language really requires knowing all the commands and prompts on how to build the code.  All the aspects of the code need to be defined out and called correctly.  It took most of the project time and lots of reading up on the reference material, documentation, emulating, and adjusting code until I felt like I had a better sense/handle of the code base and how it functions.
 * Java file management - file structuring and management is essential in Java code, especially given how Java creates class folder structures and the way that code has to call upon itself with the right paths in the directories to properly call on the right classes for things to happen.  It reminds me of how modularity and component building works in ReactJS but with more required terminology to get familiar with to call.
 
+| **Feature Aim** | **Description** | **Feature code requirements** | **Complete?** |
+| :--- | :--- | :--- | :--- |
+| [Program coded in Java](https://github.com/AshuraKuranata/high-low-java) | Build back-end utilizing Java and Spring as the primary code base | Java, Spring | Yes
+| [Front-end/Back-end](https://github.com/AshuraKuranata/spring-psql) | Implement a functional, viewable app using Java/Spring that is accessible on front end | Java, Spring, React/Angular? | Yes
+| [Connect to database with CRUD function](https://github.com/AshuraKuranata/spring-psql) | Implement a database with CRUD functionality to Java/Spring based program | MongoDB or SQL | Yes
+| [User Authentication](https://github.com/AshuraKuranata/spring-user-auth): [backend here](https://github.com/AshuraKuranata/userauth)  | Implement a secure user authentication program into application | JWT (if using Django/SQL) or OATH2? | Yes
+| Professional look | I want to implement a CSS framework (tailwind/bootstrap/other) and use figma models to make the site look professional | Tailwind/Bootstrap, Figma model | No
+
 ### Learnings
 I'm glad to have done the process and core of the project in Java/Spring, I think it's really helped me fundamentally understand coding at this level of abstraction even more than I had previously.  If I had a choice, for the purposes of ease and time, I see why and how other programming languages are compared to Java/Spring, but conversely I can also see how Java with how long it has been around and its building over the years on how you can really do some interesting things with this language. 
