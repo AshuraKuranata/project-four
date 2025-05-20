@@ -18,10 +18,6 @@ https://www.geeksforgeeks.org/download-install-java-windows-linux-macos/ - Tutor
 
 Ran into some issues, main problem was downloading the incorrect Java application from the site into the system.
 
-Once Java was running, I started to do the lessons in w3schools to help familiarize myself with Java:
-
-https://www.w3schools.com/java/default.asp
-
 # Project Plan/Build
 
 My aim at the completion with the project is to:
@@ -35,3 +31,39 @@ My aim at the completion with the project is to:
 | Professional look | I want to implement a CSS framework (tailwind/bootstrap/other) and use figma models to make the site look professional | Tailwind/Bootstrap, Figma model |
 
 As I work through the initial steps and features as I learn Java, Spring, and how they interact, the features list will develop as I go.
+
+
+# Learning Java & Spring Boot
+
+Trying to learn a new coding language was a challenge.  Java, being a strongly typed language, has been quite an interesting journey in setting up and determining how to implement as a program.  Some of the major highlights of what I've learned through this process:
+
+### Java
+*I utilized the <https://www.w3schools.com/java/default.asp> site to help run through basic lessons and integrate a better understanding of how Java works.*
+
+* Java requires an understanding of the different kinds of methods(or functions), data types, and modifiers that can be utilized in the code.
+* Java utilizes classes that house objects within them.  It works akin to the idea that classes are things that can be imported throughout the Java back-end that will allow access to the objects that reside within the class (whether it's data objects or functions).
+* Java requires modifiers that define the way that methods or data types are accessed.  A firm understanding of the modifiers is required to best utilize the code.
+
+### Spring Boot
+*I utilized <https://medium.com/@alexandre.therrien3/java-spring-tutorial-the-only-tutorial-you-will-need-to-get-started-vs-code-13413e661db5> tutorial to help set up my first intialization of Spring Boot*
+
+* Spring is effectively all the framework code that is pre-created for Java that allows developers to quickly create code related to actions they want to take.
+* There's a LOT of different tooling, code, and operations that are within Spring
+* In research, I decided to utilize Maven in my implementation of Java Spring Boot to help manage the generated code.  There is another option in Gradle, but for the purposes of learning and the tutorials reviewed, Maven seemed easiest to work with.
+* Spring Boot's connections for RESTful APIs to allow connections requires different kinds of annotations to be imported than the Request Mappings that are only for local views.
+
+# Project Results
+
+Built Simple High-Low Terminal Game in Java: <https://github.com/AshuraKuranata/high-low-java>
+Created a Java Spring Boot program that connected to PSQL: <https://github.com/AshuraKuranata/spring-psql>
+Implemented a Java Spring Boot program that emulates user authentication and saved login utilizing cookies and csrf:
+* Backend - <https://github.com/AshuraKuranata/userauth>
+* Frontend - <https://github.com/AshuraKuranata/spring-user-auth>
+
+While these projects are not very flashy overall, the work done really helped me get a handle and sense of how Java, Spring Boot, Maven, and how ReactJS connects to the systems.  There were quite a number of bugs and issues I ran into during the process, including:
+* Spring Security & CORS allowances - CORS kept preventing connections between the back and front end
+* Utilization of classes and how Java application reads files - I ran into a 3 hr bug fix because the way I implemented Spring Boot was using their boilerplate template, but it required the application file to be reading from a level above my other components, but no indication occurred that this was an error.  It was through using the tutorial route I had already commented in that helped me realize how the application reads the files.
+* Java specificity- being a strongly typed language really requires knowing all the commands and prompts on how to build the code.  All the aspects of the code need to be defined out and called correctly.  It took most of the project time and lots of reading up on the reference material, documentation, emulating, and adjusting code until I felt like I had a better sense/handle of the code base and how it functions.
+
+### Learnings
+I'm glad to have done the process and core of the project in Java/Spring, I think it's really helped me fundamentally understand coding at this level of abstraction even more than I had previously.  If I had a choice, for the purposes of ease and time, I see why and how other programming languages are compared to Java/Spring, but conversely I can also see how Java with how long it has been around and its building over the years on how you can really do some interesting things with this language. 
