@@ -54,11 +54,12 @@ Trying to learn a new coding language was a challenge.  Java, being a strongly t
 
 # Project Results
 
-Built Simple High-Low Terminal Game in Java: <https://github.com/AshuraKuranata/high-low-java>
-Created a Java Spring Boot program that connected to PSQL: <https://github.com/AshuraKuranata/spring-psql>
-Implemented a Java Spring Boot program that emulates user authentication and saved login utilizing cookies and csrf:
-* Backend - <https://github.com/AshuraKuranata/userauth>
-* Frontend - <https://github.com/AshuraKuranata/spring-user-auth>
+**Completed Project Work**
+* Built Simple High-Low Terminal Game in Java: <https://github.com/AshuraKuranata/high-low-java>
+* Created a Java Spring Boot program that connected to PSQL: <https://github.com/AshuraKuranata/spring-psql>
+* Implemented a Java Spring Boot program that emulates user authentication and saved login utilizing cookies and csrf:
+    * Backend - <https://github.com/AshuraKuranata/userauth>
+    * Frontend - <https://github.com/AshuraKuranata/spring-user-auth>
 
 While these projects are not very flashy overall, the work done really helped me get a handle and sense of how Java, Spring Boot, Maven, and how ReactJS connects to the systems.  There were quite a number of bugs and issues I ran into during the process, including:
 * Spring Security & CORS allowances - CORS kept preventing connections between the back and front end
